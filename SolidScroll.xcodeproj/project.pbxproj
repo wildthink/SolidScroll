@@ -47,7 +47,6 @@
 		9E984182271F82140060FDF7 /* SolidScrollDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolidScrollDemoApp.swift; sourceTree = "<group>"; };
 		9E984184271F82140060FDF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9E984185271F82140060FDF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		9E984186271F82140060FDF7 /* SolidScrollDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SolidScrollDemo.entitlements; sourceTree = "<group>"; };
 		9E984188271F82140060FDF7 /* ScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollView.swift; sourceTree = "<group>"; };
 		9E98419B271F82620060FDF7 /* libSolidScroll.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSolidScroll.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E9841AA271F90E20060FDF7 /* Theme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
@@ -127,7 +126,6 @@
 				9E9841AA271F90E20060FDF7 /* Theme.swift */,
 				9E984181271F82140060FDF7 /* Assets.xcassets */,
 				9E984183271F82140060FDF7 /* Preview Content */,
-				9E984186271F82140060FDF7 /* SolidScrollDemo.entitlements */,
 			);
 			path = SolidScrollDemo;
 			sourceTree = "<group>";
@@ -398,7 +396,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Sources/SolidScrollDemo/Preview Content\"";
-				DEVELOPMENT_TEAM = UP8HTB5ZA2;
+				DEVELOPMENT_TEAM = 8S7Y6KVRU5;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -434,7 +432,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Sources/SolidScrollDemo/Preview Content\"";
-				DEVELOPMENT_TEAM = UP8HTB5ZA2;
+				DEVELOPMENT_TEAM = 8S7Y6KVRU5;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
